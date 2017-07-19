@@ -6,3 +6,7 @@ local
 share
 *.iml
 pip-selfcheck.json
+iris_test.csv
+iris_training.csv
+models
+rnn-example

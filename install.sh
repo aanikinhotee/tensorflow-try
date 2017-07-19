@@ -6,3 +6,6 @@ virtualenv --system-site-packages ${targetDirectory}
 
 echo "execute following command to activate virtenv"
 echo "$ source bin/activate"
+
+
+echo "git clone https://github.com/tensorflow/models.git"
